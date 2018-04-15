@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c256f3e-fce5-44e7-b386-995a000b881e</dc:identifier>
+        <dc:title>古兰经</dc:title>
+        <dc:creator opf:file-as="导读:谢赫穆罕默德.安萨里, 译:马坚" opf:role="aut">译:马坚 导读:谢赫穆罕默德.安萨里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-01T16:00:00+00:00</dc:date>
+        <dc:description>《古兰经》是伊斯兰教唯一的根本经典。它是穆罕默德在23年的传教过程中陆续宣布的“安拉启示”的汇集。“古兰”一词系阿拉伯语Quran的音译,意为“宣读”、“诵读”或“读物”,复述真主的话语之意。中国旧译为《古尔阿尼》、《可兰经》、《古兰真经》、《宝命真经》等。中世纪伊斯兰经注学家根据经文的表述,说它有55种名称,其中常以“克塔布”(书、读本)、“启示”、“迪克尔”(赞念)、“真理”、“光”、“智慧”等来称呼。
+  本电子书由马坚所译的《古兰经》和谢赫穆罕默德·安萨里所著的《古兰经导读》合并制成。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">19c479d4-215a-44b7-8591-a08a95a995a1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>宗教</dc:subject>
+        <meta content="{&quot;译:马坚 导读:谢赫穆罕默德.安萨里&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-31T04:49:02.169671+00:00" name="calibre:timestamp"/>
+        <meta content="古兰经" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
