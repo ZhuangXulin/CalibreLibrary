@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9ae299e-4793-4d23-b64b-df665edd24a9</dc:identifier>
+        <dc:title>不去会死！</dc:title>
+        <dc:creator opf:file-as="石田裕辅" opf:role="aut">石田裕辅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>石田裕辅原是普通上班族，小学时在路边看到一位青年骑着载满行囊的自行车飞驰而过，那身影成为他潜意识里追逐的形象。于是长大后发下“不去会死”的豪语，辞掉人人称羨的大企业工作，踏上世界之旅。但石田在第一站阿拉斯加就被黑人女生勒索一美元，吓得皮皮挫，躲在青年旅馆不敢出门；在秘鲁沙漠被持枪强盗抢个精光，还得横度暴风地狱巴塔哥尼亚；在北极圈为了省钱洗露天冰河澡……就这样几度软弱，几度山穷水尽，几度想放弃，最后终于完成壮阔的五大洲完骑世界记录。“我看到恒河的纯白日出、萨宾娜天真无邪的笑脸、土耳其那尔汀美丽的笑容；满月下的金字塔、在草原上奔跑的长颈鹿、骑著破烂脚踏车追赶我的保保。泰西亚有点恼怒地笑著，流下稚气未脱的泪水。大海般的丛林中浮现蒂卡尔神殿，以及纪念碑大谷地神圣的风光。雄壮的育空河流淌而过，有鲑鱼跳跃著；在夜空中摇曳的极光……”经历过许多生死绝境、哀痛的别离、幸福的瞬间后，“活著真好”的体悟，是梦想带给作者最珍贵的礼物。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532750160</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>ZDC:YJ</dc:subject>
+        <meta content="{&quot;石田裕辅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.065357+00:00" name="calibre:timestamp"/>
+        <meta content="不去会死！" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

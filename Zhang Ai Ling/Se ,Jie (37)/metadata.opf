@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6748a414-b27e-44b2-8db1-7de5834604e3</dc:identifier>
+        <dc:title>色，戒</dc:title>
+        <dc:creator opf:file-as="張愛玲" opf:role="aut">張愛玲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-19T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;就在這剎那之間，她覺到了永恆的存在，&lt;/p&gt;&lt;p&gt;是以知道，這興許就是她所尋索的愛……&lt;/p&gt;&lt;p&gt;色是假，情是真！這是一齣，隱藏在誘惑之後的真愛劇碼……&lt;/p&gt;&lt;p&gt;一群愛國的話劇團青年，為了暗殺汪精衛手下的特務頭目易先生，派劇團台柱王佳芝假扮香港貴婦，藉機色誘易先生。&lt;/p&gt;&lt;p&gt;未經男女之事的佳芝，為了達成任務，不惜犧牲自己與團員梁閏生發生關係。可是，當佳芝憑著美色與演技，成功地吸引易先生注意時，易先生卻突然接獲任命，撤離了香港。暗殺失敗，佳芝與劇團眾人也漸行漸遠。&lt;/p&gt;&lt;p&gt;兩年後，香港淪陷，佳芝轉往上海，劇團重新找了上她，再次繼續先前未竟的計畫……&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573323532</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">db80ee89-f9f0-4be0-bf50-713cb478edeb</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;張愛玲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.668653+00:00" name="calibre:timestamp"/>
+        <meta content="色，戒" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

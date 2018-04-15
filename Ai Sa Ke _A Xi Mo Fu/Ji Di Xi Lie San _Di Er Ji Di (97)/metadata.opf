@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5400bbaf-e374-4a71-9f11-fd1d80ba7271</dc:identifier>
+        <dc:title>基地系列三：第二基地</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《第二基地》是“基地”系列三部曲的最后一部。“谜”一般的第二基地的存在成了众矢之的，骡要铲除它，而第一基地的移民为了一个完全不同的理由也必须找到它，但是它究竟在哪里呢？ 　　骡倾全力寻找并铲除第二基地，却失败了。随后，基地人员也千方百计寻找第二基地，因为他们不愿把建立新帝国的功业拱手让人。谁也没想到，寻找的线索竟维系在一位小女孩身上。十四岁的艾嘉蒂娅怕得要死，她究竟发现了有关第二基地的什么秘密呢？</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249468</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.185635+00:00" name="calibre:timestamp"/>
+        <meta content="基地系列三：第二基地" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

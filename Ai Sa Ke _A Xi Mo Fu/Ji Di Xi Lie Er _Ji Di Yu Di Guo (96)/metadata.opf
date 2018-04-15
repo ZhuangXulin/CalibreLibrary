@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09431bf7-17b3-427b-aac7-d44c292ef159</dc:identifier>
+        <dc:title>基地系列二：基地與帝國</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《基地与帝国》是“基地”系列三部曲中的第二部。此时，由伟大的心里史学家哈里·谢顿所创立的基地，虽然已在银河外缘立稳了脚跟，但还得面对来自银河帝国的压力。 　　垂死的帝国仍拥有银河中最强大的武力。一位野心勃勃的将军，率太空舰队攻向基地，聚居在基地小行星上的学者和科学家，能逃过大难的一线希望，全维系在谢顿死前留下的语言中…… 　　可是，就连谢顿当年也无法预料到：还有比太空军团更具有威胁性的外力已悄然诞生，那就是银河中的突变异种——“骡”。面对骡奇异的心灵力量，即使是一支最坚强的人，也会俯首屈服，成为听话的奴隶。骡的黑色舰队兵不血刃地接受了成立三百多年的历史，为了征服宇宙，骡和忠贞之士都在寻找第二基地，而骡的第一波搜索行动，被一个平凡的女子贝妲阻止，从而为第二基地的反攻计划争取到充分的时间。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249437</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.152686+00:00" name="calibre:timestamp"/>
+        <meta content="基地系列二：基地與帝國" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

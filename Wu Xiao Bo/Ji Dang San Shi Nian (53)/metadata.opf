@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82a1ca75-0096-481f-b63c-4a18daccb9d3</dc:identifier>
+        <dc:title>激荡三十年</dc:title>
+        <dc:creator opf:file-as="吴晓波" opf:role="aut">吴晓波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-11T16:00:00+00:00</dc:date>
+        <dc:description>上卷记载1978-1992年间的企业变革。 　　《激荡三十年》的作者没有用传统的教科书或历史书的方式来写作这部作品，而是站在民间的角度，以真切而激扬的写作手法描绘了中国企业在改革开放年代走向市场、走向世界的成长、发展之路。改革开放初期汹涌的商品大潮；国营企业、民营企业、外资企业，这三种力量此消彼长、互相博弈的曲折发展；整个社会的躁动和不安……整部书稿中都体现得极为真切和实在。作者用激扬的文字再现出人们在历史创造中的激情、喜悦、呐喊、苦恼和悲愤。 　　尽管任何一段历史都有它不可替代的独特性，可是，1978年—2008年的中国，却是最不可能重复的。在一个拥有13亿人口的大国里，僵化的计划经济体制日渐瓦解了，一群小人物把中国变成了一个巨大的试验场，它在众目睽睽之下，以不可逆转的姿态向商业社会转轨。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508607719</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <meta content="{&quot;吴晓波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.343183+00:00" name="calibre:timestamp"/>
+        <meta content="激荡三十年" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2895fd2c-d28c-4e8a-a01b-755613b256a1</dc:identifier>
+        <dc:title>鹿鼎記一</dc:title>
+        <dc:creator opf:file-as="金庸" opf:role="aut">金庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-12T16:00:00+00:00</dc:date>
+        <dc:description>【鹿鼎記】名列 世紀百強 第 31。 　　小說以清代康熙年間的社會歷史 為背景，描寫了一個出身於社會最底 層的少年韋小寶的傳奇經歷。他以不 會任何武功之姿態闖蕩江湖各大幫會 、周旋皇帝朝臣之間並奉旨遠征雲南 、俄羅斯之故事，書中充滿精彩絕倒 的對白及逆思考的事件，多讀幾遍搞 不好可以仙福永享壽與天齊呢！韋小 寶笑稱自己“不學無術卻處處有術“ ，卻靠著這不學之術在太監、欽命大 臣、幫會堂主、和尚、甚至七個美女 的共同老公這些職務上勝任愉快。 《鹿鼎記》是金庸的「封刀」之 作，也是金庸篇幅最長，風格最為獨 特的作品，它是一鄰悲劇性的英雄史 詩，是金庸為其昔日筆下創造出的無 數江湖英雄唱出的一曲無盡輓歌，但 卻是一部以插科打諢，荒唐滑稽，詼 諧風趣、幽默機智的喜劇風格寫成的 悲劇史詩，其主人公也不再是昔日一 劍一蕭笑傲江湖的俠義英雄，而是一 個出沒於妓院與宮廷的潑皮小流氓— —非英雄化，悲劇主題喜劇化是這部 小說最鮮明突出的風格。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108006691</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;金庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:16.537930+00:00" name="calibre:timestamp"/>
+        <meta content="鹿鼎記一" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

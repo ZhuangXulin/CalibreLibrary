@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a019f099-d0cb-4dca-adaf-ef41c3393ab4</dc:identifier>
+        <dc:title>李自成</dc:title>
+        <dc:creator opf:file-as="姚雪垠" opf:role="aut">姚雪垠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-11-14T16:00:00+00:00</dc:date>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Foreign Language Study</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Asian</dc:subject>
+        <meta content="{&quot;姚雪垠&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.801445+00:00" name="calibre:timestamp"/>
+        <meta content="李自成" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48711d17-7ad3-4707-9539-e0050e4d1636</dc:identifier>
+        <dc:title>基地後傳：基地邊緣</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>当初，心理史学家哈里·谢顿建立基地，并预测人类能在千年间重建银河新帝国。现在，498年过去了，谢顿计划似乎被执行得很完美。 　　“完美，可能吗”基地人员葛兰·崔维兹表示怀疑。首先，谢顿就不曾预测到“骡”会造成大灾祸。此外，有奇异的力量在继续控制人们的心灵。崔维兹尝试警告大家注意危机，却换得被放逐的下场。他于是开始了奇特的银河查访之旅 　　同时，第二基地的史陀·坚迪柏也怀疑星际间暗藏着强大的操纵力量。他因此航向太空，尾随崔维兹的查访航迹…… 　　崔维兹终于发现具备不可思议力量的星球。看来，历史进展早已超越谢顿计划的蓝图。现在，只有他能决定，要抢救计划呢，还是任计划灰飞烟灭？</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249444</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.337921+00:00" name="calibre:timestamp"/>
+        <meta content="基地後傳：基地邊緣" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

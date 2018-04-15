@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a918bed9-103b-465c-a314-fe7d64f605c5</dc:identifier>
+        <dc:title>亞細亞的孤兒</dc:title>
+        <dc:creator opf:file-as="吳濁流" opf:role="aut">吳濁流</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-11T16:00:00+00:00</dc:date>
+        <dc:description>《亞細亞的孤兒》名列 世紀百強 第 23。《亞細亞的孤兒》是日據時代下台灣的縮影，以主角胡太明一生為主軸，具體描畫了台灣社會從教員、官員、醫師，以至走狗的人間像，而且也包括了台灣人對中國人、台灣人對日本人矛盾的關係。此書描寫了人間的深刻苦悶。描繪從戰前到戰時中殖民地體制下的台灣特殊環境，具有透澈的歷史眼光與社會分析能力。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573901419</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;吳濁流&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.836102+00:00" name="calibre:timestamp"/>
+        <meta content="亞細亞的孤兒" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

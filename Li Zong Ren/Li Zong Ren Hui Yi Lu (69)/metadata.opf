@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3155e3ee-5037-4560-afd0-1e8cce9fbef2</dc:identifier>
+        <dc:title>李宗仁回忆录</dc:title>
+        <dc:creator opf:file-as="李宗仁" opf:role="aut">李宗仁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-04-14T16:00:00+00:00</dc:date>
+        <dc:publisher>广西人民出版社</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>回忆录</dc:subject>
+        <meta content="{&quot;李宗仁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.018694+00:00" name="calibre:timestamp"/>
+        <meta content="李宗仁回忆录" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eba6f3e1-0ef5-4ace-870f-467167ad1cb7</dc:identifier>
+        <dc:title>格雷厄姆论价值投资</dc:title>
+        <dc:creator opf:file-as="本杰明·格雷厄姆" opf:role="aut">本杰明·格雷厄姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-29T16:00:00+00:00</dc:date>
+        <dc:description>本杰明·格雷厄姆的继承者们按照他的教导积累了大量财富：投资于低价位，经营完善，红利可靠的公司；分散投资于大量的股票和债券；维护自己的股东权利；要有耐心，独立思考。在一个市场操纵兴风作浪的年代，格雷厄姆让世人明白，掌握有关公司过去和现在业绩的可靠信息具有何等的价值。时间在变、市场在变，但是他的教导对今天的投资者仍是金玉良言。在《本杰明·格雷厄姆论价值投资》一书中，珍妮特·洛尔不仅刻画了一个形像鲜明的人，还让我们深入了解了格雷厄姆的投资思想。任何类型的投资者都可以从中学到这个金融天才的理论，就如同当面聆听格雷厄姆的教诲一样。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789787806456</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <meta content="{&quot;本杰明·格雷厄姆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.757505+00:00" name="calibre:timestamp"/>
+        <meta content="格雷厄姆论价值投资" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

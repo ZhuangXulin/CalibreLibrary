@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6f17dbc-40cf-4420-badc-f78313fd8bb5</dc:identifier>
+        <dc:title>黃霑不文集典藏版(匣套上下兩集)</dc:title>
+        <dc:creator opf:file-as="黄霑" opf:role="aut">黄霑</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-25T16:00:00+00:00</dc:date>
+        <dc:description>黄霑 《不文集》是黃霑廿多年來最受歡迎的經典著作，前後已加印過60版。書中有不少霑叔自創的不文笑話，亦會引經據典解釋大家經常掛在嘴邊的粗言穢語；更介紹了不少廣東不文歇後語，甚至追溯恥毛、做愛等研究。「不文」二字，自此就跟霑叔形影不離，而別號「不文霑」亦隨之而來 霑叔自认此书意义：1、为真小人争取社会地位，不让伪君子们霸占了全个世界； 2、为真君子争取更大光荣——因为如果没有“不文集”这类不三不四的拆烂污文字，又如何显得出真君子载道鸿文的光彩？ （&lt;span style="color:red"&gt;子乌注：这是网上能找到的最全的版本了，但是我还是不知道是否完整&lt;/span&gt;）</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789621788795</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:SHXX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;黄霑&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:16.396304+00:00" name="calibre:timestamp"/>
+        <meta content="黃霑不文集典藏版(匣套上下兩集)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

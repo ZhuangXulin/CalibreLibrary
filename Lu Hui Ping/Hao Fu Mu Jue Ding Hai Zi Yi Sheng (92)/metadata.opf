@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37eea8e9-5b92-4f27-81d4-8647b3c4c024</dc:identifier>
+        <dc:title>好父母决定孩子一生</dc:title>
+        <dc:creator opf:file-as="陆惠萍" opf:role="aut">陆惠萍</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;当下，很多家长都在为如何教育孩子备感焦虑。从本质上说，孩子的问题是父母的问题。因此，想要孩子变，父母先要改。希望孩子优秀，父母首先要改变观念、态度、原则、方法和行为，成为孩子成长路上的好伴侣、好榜样。&lt;/p&gt;
+
+&lt;p&gt;《好父母决定孩子一生（修订珍藏版）》中，作者依据20年亲身实践，将实用的教育学、心理学知识，糅合进一个个精彩生动的案例，倾情分享成为好父母的最有效的教子原则与方法，并以对等交流的方式，逐一解答亲子教育过程中普遍存在的诸多问题，引导父母真正关注孩子、关心孩子、了解孩子，通过自身的改变成功影响自己的孩子。&lt;/p&gt;
+&lt;p&gt;&lt;font class="Apple-style-span" color="#400080"&gt;(子乌注：所有的育儿书籍请慎重阅读，特别是国内的……请批判性地阅读……没说书不好哈，得看个人情况。)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0c1c0937-1d16-4b09-9cc4-750bdbfd9ed7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JYXX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;陆惠萍&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.951105+00:00" name="calibre:timestamp"/>
+        <meta content="好父母决定孩子一生" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

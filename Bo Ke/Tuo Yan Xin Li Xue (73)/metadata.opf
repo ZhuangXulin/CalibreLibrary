@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c45e9beb-356d-476a-8b1d-3ff5a5e6b367</dc:identifier>
+        <dc:title>拖延心理学</dc:title>
+        <dc:creator opf:file-as="博克" opf:role="aut">博克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-03T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">857a0c6c-5038-41a5-9189-3fad8524fc0c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;博克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.177936+00:00" name="calibre:timestamp"/>
+        <meta content="拖延心理学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

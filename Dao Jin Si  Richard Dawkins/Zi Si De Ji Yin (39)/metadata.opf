@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0fb938f-6181-4428-9d4a-fab26ae0829a</dc:identifier>
+        <dc:title>自私的基因</dc:title>
+        <dc:creator opf:file-as="Dawkins, 道金斯 Richard" opf:role="aut">道金斯 Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-08T16:00:00+00:00</dc:date>
+        <dc:description>最能代表二十世紀的百大好書之一 像小說般精采的科普書，全球暢銷百萬冊 任何生物，包括我們，都只是求生機器， 暗地裡已被輸入某些程式，用來保養那些叫做基因的自私分子。 這麼說來，我們不都成了基因的俘虜？ 種種行為早已由基因命定？真是這樣嗎？ 如果您不願意成為基因的俘虜，就請先了解《自私的基因》。 這本書充滿想像力，就像科幻小說…… 任何生物，包括我們，都只是求生機器， 暗地裡已被輸入某些程式， 用來保養那些叫做基因的自私分子。 這麼說來，我們不都成了基因的俘虜？ 但這本書卻是實實在在的科學…… 動物也會實施家庭計畫？ 父母對子女的照顧，會有大小眼嗎？ 雌性擇偶為何比雄性更小心？ 工蟻憑什麼要為女蟻王賣命？ 好人真的會出頭嗎？ 從「自私的基因」觀點出發，這些問題全都可以找到答案。 作者簡介 道金斯　Richard Dawkins 　　英國人，著名演化理論學者，英國皇家學會會士。1941年出生於肯亞，1949年全家返回英國。就讀牛津大學，受業於動物行為學名家丁伯勤（Nikolaas Tinbergen, 1907-1988；一九七三年諾貝爾生理醫學得主），獲動物學博士學位。 　　1976年，道金斯出版了《自私的基因》這本書，闡釋以「基因」為分析單位的演化觀，因而聲名大噪。 　　1995年起，擔任牛津大學新設立的科學教育講座教授（Chair of Public Understanding of Science）；2001年當選英國皇家學會會士。 　　道金斯是英國最重要的科學作家，不但每一本書都是暢銷書，並經常在各大媒體討論、評論科學的各個面向。道金斯的暢銷著作中，《自私的基因》為最重要的代表作，《延伸的表現型》（The Extended Phenotype, 1982）次之。此外，《盲眼鐘錶匠》（The Blind Watchmaker, 1986）與續篇《攀登不可能的山》（Climbing Mount Improbable, 1996）都是演化生物學的入門書。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789862163252</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;道金斯 Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.744888+00:00" name="calibre:timestamp"/>
+        <meta content="自私的基因" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

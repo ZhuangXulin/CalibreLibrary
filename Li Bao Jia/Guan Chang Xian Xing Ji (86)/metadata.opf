@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">405a6545-c228-4ed2-a9ad-66a30fc114ed</dc:identifier>
+        <dc:title>官場現形記</dc:title>
+        <dc:creator opf:file-as="李寶嘉" opf:role="aut">李寶嘉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-11T16:00:00+00:00</dc:date>
+        <dc:description>《官場現形記》名列 世紀百強 第 13。作者李寶嘉，字伯元，號南亭亭長，江蘇上元人，生於一八六七年，歿於一九零六年。因辦過「指南報」「遊戲報」「海上繁華報」，故後人常稱其為「小報界鼻祖」。庚子拳亂及八國聯軍的入侵，替二十世紀的中國寫下了頹壞的另一頁。由於清室屢挫於外敵，政治又極度腐敗，背負「文以載道」使命的知識份子遂以寫作小說，以事抨擊，並提倡維新與愛國精神。而此時，以揭露當時黑暗社會為旨的「譴責小說」，帶著文人迫切想要救贖國家的念願誕生了。李寶嘉的《官場現形記》、劉鶚的《老殘遊記》、吳趼人的《廿年目睹之怪現狀》以及曾樸的《孽海花》﹐這四大譴責小說相繼出現，便帶給了當時的社會很大的震撼及影響。然而，清末文人向暗無天日的官場發出的第一炮，便是李寶嘉的《官場現形記》了。 《官場現形記》為李寶嘉最長之作，也是四大譴責小說中寫得最好，且又是流行最廣的一部。《官場現形記》共六十回，體裁是模仿儒林外史，每一人演述完畢後，即遞入他人，全書由此蟬連而下，是章回小說的變體，主要由一系列獨立的人物故事聯綴而成，故不免顯得雜亂散漫，然而其取材深合民心，切重時代弊端，故得以享有重名。一九零一年開始，李寶嘉著手寫此書並將文章登在「海上繁華報」上。但是，究竟是李寶嘉自己完成全書，還是由茂苑惜秋生（歐陽巨源）續完最後十六回的，至今仍是個謎。因為此書是在一九零五年登完最後一回，但是約在一九零五年時，李寶嘉就已病入膏肓，幾乎不能動筆寫作的躺在床上了。到底真相為何？即使後人用盡各種方法去探尋解答，但也無法求得最有力的解答。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806652435</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;李寶嘉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.696575+00:00" name="calibre:timestamp"/>
+        <meta content="官場現形記" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

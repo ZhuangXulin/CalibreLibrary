@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86d914d7-de8c-4a39-aa9e-f41b7b3a6d15</dc:identifier>
+        <dc:title>色眼识人</dc:title>
+        <dc:creator opf:file-as="乐嘉" opf:role="aut">乐嘉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-13T16:00:00+00:00</dc:date>
+        <dc:description>书籍分为4级章节，提供各章节目录内跳转。点击链接没有反应的，请尝试长按链接（例如stanza用户）实现跳转。 本书运用独特的FPA性格色彩密码工具，用颜色把人的性格分为“红、黄、蓝、绿”，比如，梁朝伟、窦唯、杨丽萍被划分到了蓝色系列，葛优被分入了绿色系列，而郑钧则被划分为红色系列。作者乐嘉以色彩来划分性格，将人性的复杂通过色彩解释得深入浅出，并借此来折射人内心的动机，试图掀起一场有趣的“色彩革命”。 　　这是一本探索研究性格规律的书。作者用“红、蓝、黄、绿”四色代替人的性格类型，借助一幅幅美妙的图画来解析多变的人生；通过对“性格色彩密码”的解读，帮助读者学会以“有‘色’眼睛”洞察人性，增强对人生的洞察力，并修炼个性，从而掌握自己的命运。 　　这是本奇书，你能真正理解了自己在爱情互动中的心愿、行为及其根源，并开始了解自己的性格局限是如何无意间破坏着你的亲密关系；你也将可以更客观地看待他，开始懂得原来你所认为“不可谅解”的行为，对他来说动机是那样的自然简单，只是因为他与你的“不同”；而你心中 那些小“？”也将一一被拉直变成充满情感的！ 　　这是本实用的工具书，读者很快就可以辩清恋爱双方的“爱情色彩”。简单说来，红色是热情洋溢的爱人，当红色喜欢上一个人，定是轰轰烈烈、激情四射，浪漫却容易变异思迁； 蓝色是细腻敏感的爱人，内心情感丰富，表面疏离冷淡，一旦爱上却体贴入微；黄色是果断坚强的爱人，极富责任心，细微处情感有些疏忽，对家人却考虑长远；绿色是温和宽厚的爱人，最有耐心和爱心的倾听者和支持者，情愿压抑自己也不愿伤害爱人。 　　本书中，我们共同进入到每个人内心撮底层进行探索。 　　你将学会如何发现自己的天然力量，并不加压抑地充分展现出来，同时还可学会了解自己的性格局限，并知道它们是如何严重破坏你的人际关系且成为你个人发展的拦路虎；你将通过对每种性格内心的剖析，看到别人如何思考和行事，真正理解你与他人的差别，原来那些你认为“不可思议”和“不可理喻”的人们，是那样的简单透明；你将能够检查自己理解他人的方法是否正确，以便拥有任何你希望与工作伙伴、家庭成员和朋友之间的健康的人际关系。最重要的是，你将知道自己是谁！ 　　本书中不同字体所表的含义并不相同。楷体部分代表历史人物的真实事件或媒体、书籍对于人物的评价，仿宋体部分代表现实生活中的真实事件，宋代部分代表作者的观、分析和阐述，方框内黑体部分代表归纳总结的要点。　 【小T出品】</dc:description>
+        <dc:publisher>金读 kindle.im</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>科普书籍</dc:subject>
+        <meta content="{&quot;乐嘉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.868153+00:00" name="calibre:timestamp"/>
+        <meta content="色眼识人" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

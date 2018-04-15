@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e76e8b8-5109-4eec-a988-fc04ff3f95b6</dc:identifier>
+        <dc:title>活着的理由</dc:title>
+        <dc:creator opf:file-as="钱理群" opf:role="aut">钱理群</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T16:00:00+00:00</dc:date>
+        <dc:description>本书乃钱理群先生最新一本“退思录”。钱先生保持了其一贯的思考方式及思考力度，在某种程度上，这是其“搅动灵魂”主题的发展，既是对严峻现实的正视，又有超越现实的思考。因此，本书的文章集中讨论了一系列的“问题”：“活着的问题”，“教育的问题”，“学术的问题”，而贯穿其中的却是两个关键词：“活着”与“承担”。“活着”讲现实的生命“存在”：存在的理由、根基、危机等等；“承担”，则是追寻存在的“意义”，从历史经验中提升出的既旧又新的生命存在方式，即所谓对自我、事业和社会的“三承担”。而在这背后，又有着关于以“价值重建”为核心的“文化重建（学术重建，教育重建，等等）”和“生活重建”的思考。</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787549500123</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;钱理群&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.503495+00:00" name="calibre:timestamp"/>
+        <meta content="活着的理由" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

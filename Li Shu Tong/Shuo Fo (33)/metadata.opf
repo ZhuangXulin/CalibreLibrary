@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc9c7b62-0104-4d23-b49f-ab008145e78c</dc:identifier>
+        <dc:title>说佛</dc:title>
+        <dc:creator opf:file-as="李叔同" opf:role="aut">李叔同</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;本书是弘一法师晚年将其学佛心得整理、修订，以大才子、大学者、大艺术家的俗家修为向常人揭示出佛门的真谛。他的演讲稿与辑录的处世格言被梁实秋、林玉堂等作家誉为“一字千金，值得所有人慢慢阅读、慢慢体味、用一生的时间静静领悟”。&lt;/p&gt;&lt;p&gt;&lt;font class="Apple-style-span" color="#400080"&gt;(子乌注：公版书，看了豆瓣的几个《李叔同说佛》的版本，对不起来，就不绑定isbn了。在不影响原文格式的情况下尽量优化了排版，希望可以更易阅读。)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">10ff51b5-ef1b-40ca-a2a7-5cc9ba99465c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;李叔同&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.487753+00:00" name="calibre:timestamp"/>
+        <meta content="说佛" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

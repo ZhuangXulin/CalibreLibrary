@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c22c3b17-2999-4fe5-8627-7f8ce350f6e8</dc:identifier>
+        <dc:title>基地系列一：基地</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《基地》是“基地”系列三部曲中扣第一部。统治银河系达一万两千年之久的银河帝国，已经逐渐走向衰亡。这时间，只有心事史学的一代宗师哈里·谢顿预见未来银河人人将会经历一段长达三万年、充满无知、野蛮和战争的黑暗时期。谢顿于是设立集合帝国中最优秀的科学家，来到银河边缘的一个荒凉行星建立“基地”，期望它能成为未来世代人类的希望灯塔。 　　然而，随着帝国的逐渐衰微，基地被好战的强邻包围。人类也面临痛苦抉择：向野蛮的势力投降、甘心受控制？还是不顾被摧毁的危险起而奋战？</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249420</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.268799+00:00" name="calibre:timestamp"/>
+        <meta content="基地系列一：基地" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

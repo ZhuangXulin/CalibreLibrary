@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb35d0b4-4f16-4b1d-831d-0ad1f0d4ef84</dc:identifier>
+        <dc:title>潜规则-中国历史中的真实游戏</dc:title>
+        <dc:creator opf:file-as="吴思" opf:role="aut">吴思</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-18T16:00:00+00:00</dc:date>
+        <dc:description>吴思先生所著《潜规则——中国历史中的真实游戏》出版于2001年。在这部以历史为解读对象的著作中，作者以亦雅亦俗、亦庄亦谐的写作方式，叙述了历史上值得人们思考的大大小小的无数案例，在生动、有趣地讲述官场故事的同时，作者透过历史表象，揭示出隐藏在正式规则之下、实际上支配着社会运行的不成文的规矩，并将其名之曰“潜规则”，进而指出潜规则的产生在于现实的利害计算与趋利避害。书中对于潜规则的定义、特征，潜规则阴影下皇帝、官员、百姓的不同处境与抉择，潜规则盛行的社会土壤，以及潜规则何时会萎缩，均有论述。潜规则现象产生、盛行于我国的封建社会，但它一时还难以消失，只有加强社会主义民主，健全社会主义法制，才能最后根除潜规则。 　　《潜规则》一书问世之后，海内外产生广泛影响。最近作者对该书作了补充、修订，使其内容更丰富，观点更明确，值得重读。为此，我社征得吴思先生同意，正式出版《潜规则——中国历史中的真实游戏》修订版，冀望给人以启迪。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;吴思&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.429381+00:00" name="calibre:timestamp"/>
+        <meta content="潜规则-中国历史中的真实游戏" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

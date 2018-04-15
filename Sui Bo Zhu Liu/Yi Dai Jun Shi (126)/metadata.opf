@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdc61c9f-346f-4acd-866e-f59a83f2baab</dc:identifier>
+        <dc:title>一代军师</dc:title>
+        <dc:creator opf:file-as="随波逐流" opf:role="aut">随波逐流</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-14T16:00:00+00:00</dc:date>
+        <dc:description>在官场，权势相争，惊心动魄；于处事，过人智谋，化险为夷。 　　千万点击，百万荐诵，不可不读！江南奇女子，洋洋书写百万言，龙图霸业，跃然纸上。　 　　四册蝉联，大制作凸显大智慧，好评如潮，最新上市！ 　　千古江山，一时英雄，个中谁是高强手？中原兴兵，乱世争雄，名列青史第一流！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>穿越·架空</dc:subject>
+        <meta content="{&quot;随波逐流&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.360449+00:00" name="calibre:timestamp"/>
+        <meta content="一代军师" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

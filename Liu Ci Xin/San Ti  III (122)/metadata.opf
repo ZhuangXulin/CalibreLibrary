@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">204b990f-3c21-4a26-bada-e6e9c69329ca</dc:identifier>
+        <dc:title>三体 Ⅲ</dc:title>
+        <dc:creator opf:file-as="刘慈欣" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: 与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。 使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上一个微不足道的插曲。真正的星际战争没人见过，也不可能见到，因为战争的方式和武器已经远远超出人类的想象，目睹战场之日，即是灭亡之时。 宇宙的田园时代已经远去，昙花一现的终极之美最终变成任何智慧体都无法做出的梦，变成游吟诗人缥缈的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。 太阳系中的人们永远不会知道这一切，最后直面真相的，只有两双眼睛。</dc:description>
+        <dc:publisher>重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787229030933</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>三体</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>刘慈欣</dc:subject>
+        <dc:subject>中国科幻</dc:subject>
+        <meta content="{&quot;刘慈欣&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.201794+00:00" name="calibre:timestamp"/>
+        <meta content="三体 Ⅲ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

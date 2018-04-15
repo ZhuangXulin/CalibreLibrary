@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8df886c-f9ff-4e99-8735-c4372575f9dc</dc:identifier>
+        <dc:title>生命如歌</dc:title>
+        <dc:creator opf:file-as="特雷西·基德尔" opf:role="aut">特雷西·基德尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;若你已见证了地狱的火光，是否还能用天使般的心温暖这个世界&lt;/p&gt;
+
+&lt;p&gt;亲人，家园，梦想，安身立命的一切……&lt;/p&gt;
+
+&lt;p&gt;德奥的整个世界被一场席卷布隆迪和卢旺达的大屠杀彻底粉碎。六个月残酷的逃亡，死神无处不在，放眼所见只有血红的天地和成山的尸体。机缘巧合之下，德奥身无分文地来到了纽约。他无法与人 交流，他语言一窍不通，但他却从未忘记微笑，从未放弃自己的梦想。他尽最大努力去做任何与医学有关的事情，心心念念想要在支离破碎的祖国建立医院。&lt;/p&gt;
+
+&lt;p&gt;他知道自己还有温暖的心，他依然想用自己微不足道的力量温暖这个世界……&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561352137</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">fcf5dfcd-c1b4-4f54-b41c-976c72e939e2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;特雷西·基德尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.190438+00:00" name="calibre:timestamp"/>
+        <meta content="生命如歌" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

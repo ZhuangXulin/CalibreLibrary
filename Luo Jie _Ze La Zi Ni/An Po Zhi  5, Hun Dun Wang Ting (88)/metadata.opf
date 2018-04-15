@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fa3b10c-cade-4550-b1cf-eb01ebe7d776</dc:identifier>
+        <dc:title>安珀志 5, 混沌王庭</dc:title>
+        <dc:creator opf:file-as="罗杰·泽拉兹尼" opf:role="aut">罗杰·泽拉兹尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-16T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;邪恶似乎占了上风。安珀即将毁灭。安珀的诸位王子束手无策。这时，安珀之王奥伯龙命令诸王子抢先向混沌宫廷发起进攻。科温没有加入进攻的行列。奥伯龙命令他携带安珀的无上至宝仲裁石，绕道前往战场。奥伯龙本人则将竭力修复被破坏的安珀之源，试炼阵。但是，修复试炼阵的尝试失败了。仲裁石也落到安珀的黑暗势力手中。安珀毁灭了。毁灭的混沌波追逐着科温，一路席卷过无数影子世界，吞没了它们，将它们化为混沌。战场上的安珀大军与统帅这支大军的安珀王子们也将化为乌有。守护族人、重建安珀的重担落在科温肩上。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550228818</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c2199e5f-643a-451c-ad24-b81d44708b3c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH:科幻玄幻</dc:subject>
+        <dc:subject>CNTY:USA:美国</dc:subject>
+        <dc:subject>ZDC:WGWX:外国文学</dc:subject>
+        <meta content="{&quot;罗杰·泽拉兹尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.784230+00:00" name="calibre:timestamp"/>
+        <meta content="安珀志 5, 混沌王庭" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

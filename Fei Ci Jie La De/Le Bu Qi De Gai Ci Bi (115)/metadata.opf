@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">115ef8ef-aef8-483a-a470-eff62e1d9210</dc:identifier>
+        <dc:title>了不起的盖茨比</dc:title>
+        <dc:creator opf:file-as="菲茨杰拉德" opf:role="aut">菲茨杰拉德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-10T16:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <dc:subject>ibook.178.com</dc:subject>
+        <meta content="{&quot;菲茨杰拉德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.912659+00:00" name="calibre:timestamp"/>
+        <meta content="了不起的盖茨比" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

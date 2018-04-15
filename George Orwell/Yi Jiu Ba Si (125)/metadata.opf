@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef92f809-963e-45cc-8c63-5462b65d3a4e</dc:identifier>
+        <dc:title>一九八四</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>《一九八四》是奥威尔的传世之作，堪称世界文坛最著名的反乌托邦、反极权的政治讽喻小说。他在小说中创造的“老大哥”、“双重思想”、“ 新话”等词汇都已收人权威的英语词典，甚至由他的姓衍生出“奥威尔式” （Orwellian）、“奥威尔主义”（Orwellism）这样的通用词汇，不断出现在报道国际新闻的记者笔下，足见其作品在英语国家影响之深远。 　　《一九八四》与苏联扎米亚京的《我们》、英国小赫胥黎的《美丽新世界》被合称为“反乌托邦三部曲”。本书是一部政治讽刺小说。书中描述的是对极权主义恶性发展的预言——人性遭到扼杀，自由遭到剥夺，思想受到钳制，生活极度贫乏、单调。特别可怕的是：人性已堕落到不分是非善恶的程度。 《一九八四》是奥威尔辞世前最后一部著作，由著名翻译家董乐山翻译。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532745401</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>文学名著</dc:subject>
+        <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.319256+00:00" name="calibre:timestamp"/>
+        <meta content="一九八四" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

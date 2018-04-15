@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6af770dd-e6a0-41ac-b56a-c07a21b90ca1</dc:identifier>
+        <dc:title>安珀志1,安珀九王子</dc:title>
+        <dc:creator opf:file-as="罗杰·泽拉兹尼" opf:role="aut">罗杰·泽拉兹尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-31T16:00:00+00:00</dc:date>
+        <dc:description>仿佛从永恒的混沌中苏醒。不知道自己是谁，不知道自己做过什么。只有一种强大的推动力，促使他排除艰辛，压倒重重阻挠。他终于找到了自己的妹妹。但是，与家人重逢并不意味着安全。相反，一连串历险开始了。家人中，有的可以依靠，有的却是一心置他于死地的仇敌。陷入阴谋，却完全没有头绪，他只能凭借自己的本能与顽强，在黑暗中一步步摸索前进，进入一个千奇百怪、无可理喻的世界。安珀的世界。而他，科温，正是安珀的王子。他的人生，将在王位的争夺战中拉开序幕。</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550228771</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c91b6c44-c940-4526-8830-573d812b6cbc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH:科幻玄幻</dc:subject>
+        <dc:subject>ZDC:APZ:安珀志</dc:subject>
+        <dc:subject>ZDC:WGWX:外国文学</dc:subject>
+        <dc:subject>CNTY:USA:美国</dc:subject>
+        <meta content="{&quot;罗杰·泽拉兹尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.102122+00:00" name="calibre:timestamp"/>
+        <meta content="安珀志1,安珀九王子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

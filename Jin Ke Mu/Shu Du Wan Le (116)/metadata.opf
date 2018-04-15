@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7590ff7d-f37b-4409-a376-27b21cfd5888</dc:identifier>
+        <dc:title>书读完了</dc:title>
+        <dc:creator opf:file-as="金克木" opf:role="aut">金克木</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-16T16:00:00+00:00</dc:date>
+        <dc:description>金克木先生一代大家，其读书与治学自有独到幽微之处。惜其著作出版广而且杂，况未经人整理，故今日学子，得片羽易，而欲窥其全面则难。本书编者爬梳剔抉，参互考寻，从金克木生前约30部已出版著作中精选出有关读书治学方法的文章50余篇，分“书读完了”——读什么书、“福尔摩斯与读书得间”——怎么读书、读书、读人、读物——读通书三辑，其文说理叙事，皆清秀流利，全无晦涩难懂之处，普通读者循序渐进，或可一窥大家通人治学读书之堂奥。</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532622634</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <meta content="{&quot;金克木&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.949094+00:00" name="calibre:timestamp"/>
+        <meta content="书读完了" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

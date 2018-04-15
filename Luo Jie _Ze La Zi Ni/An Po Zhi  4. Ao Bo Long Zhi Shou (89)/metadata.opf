@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">385767d2-8316-48d7-acfa-f5de68b7e013</dc:identifier>
+        <dc:title>安珀志 4. 奥伯龙之手</dc:title>
+        <dc:creator opf:file-as="罗杰·泽拉兹尼" opf:role="aut">罗杰·泽拉兹尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-16T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;独角兽带领他们来到安珀的源头，在那里，科温找到了与他的父亲奥伯龙共同创造安珀的托尔金。安珀诞生于混沌王庭，又与混沌王庭对立，二者皆为实体，仿佛阴阳。安珀是阳，混沌宫廷是阴。那条无法消除的神秘黑路便源于混沌。长久对立之后，混沌王庭重整旗鼓，企图吞没安珀，让宇宙重归于混沌。科温误打误撞，来到混沌宫廷的边缘。在这里，时间流逝的速度、物体的物理法则、生物的表现形式均迥异于安珀。他看到了未来，甚至与自己未来的儿子对面相逢。谜团逐步解开。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简安珀志</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550228801</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">81c6e6dd-a51e-4600-b9ac-afad5df68910</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH:科幻玄幻</dc:subject>
+        <dc:subject>ZDC:WGWX:外国文学</dc:subject>
+        <dc:subject>CNTY:USA:美国</dc:subject>
+        <meta content="{&quot;罗杰·泽拉兹尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.829997+00:00" name="calibre:timestamp"/>
+        <meta content="安珀志 4. 奥伯龙之手" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

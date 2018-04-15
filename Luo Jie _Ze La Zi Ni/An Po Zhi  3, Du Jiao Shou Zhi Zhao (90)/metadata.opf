@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c87e7a3d-cc79-4f6d-960f-6fd1b3992863</dc:identifier>
+        <dc:title>安珀志 3, 独角兽之兆</dc:title>
+        <dc:creator opf:file-as="罗杰·泽拉兹尼" opf:role="aut">罗杰·泽拉兹尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;安珀处于内外交困之中。 &lt;/p&gt;&lt;p class="description"&gt;一方面是那条不祥的黑路，它穿过各个影子世界。来自黑暗的力量可以沿着这条黑路，攻打它们以往绝不可能染指的安珀。 &lt;/p&gt;&lt;p class="description"&gt;另一方面，安珀的诸位王子公主之间互相猜忌，结成一个个阴谋小集团。有的拥兵自立，有的甚至求助于来自黑路的黑暗力量。 &lt;/p&gt;&lt;p class="description"&gt;从前击败科温、登上王位的艾里克死了，死在与黑暗力量的战斗中。科温暂居大位，但他却无法有效地领导他的兄弟姐妹，因为他正自顾不暇。&lt;/p&gt;&lt;p class="description"&gt; 又一位王子被刺身死。科温成了最大的嫌疑。惟一有可能证明他的清白的兄弟布兰德又被囚禁在一个怪诞、恐怖的影子世界。科温成功地救出了布兰德，但他刚刚脱险，又立即被刺。行刺布兰德的凶手还未查出，科温自己也险些遇刺身亡。 &lt;/p&gt;&lt;p class="description"&gt;困境之中，独角兽出现了。 &lt;/p&gt;&lt;p class="description"&gt;安珀的神兽将指引科温，将他带到安珀的源头。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550228795</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c52634a3-3a01-40d1-8f45-f2501a3e4958</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH:科幻玄幻</dc:subject>
+        <dc:subject>CNTY:USA:美国</dc:subject>
+        <dc:subject>ZDC:WGWX:外国文学</dc:subject>
+        <meta content="{&quot;罗杰·泽拉兹尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.874077+00:00" name="calibre:timestamp"/>
+        <meta content="安珀志 3, 独角兽之兆" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

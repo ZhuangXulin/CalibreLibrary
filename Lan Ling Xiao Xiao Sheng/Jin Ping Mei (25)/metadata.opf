@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cba93bc4-d5dc-46a4-ae12-24be1b927183</dc:identifier>
+        <dc:title>金瓶梅</dc:title>
+        <dc:creator opf:file-as="蘭陵笑笑生" opf:role="aut">蘭陵笑笑生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-06T14:09:05.096659+00:00</dc:date>
+        <dc:publisher>udn數位閱讀網 reading.udn.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;蘭陵笑笑生&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.151950+00:00" name="calibre:timestamp"/>
+        <meta content="金瓶梅" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

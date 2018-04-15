@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23f47e62-a874-42cb-a0ff-748961b924ed</dc:identifier>
+        <dc:title>香港三部曲一</dc:title>
+        <dc:creator opf:file-as="施叔青" opf:role="aut">施叔青</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-24T16:00:00+00:00</dc:date>
+        <dc:description>《香港三部曲》名列 世紀百強 第 60。作者施叔青，台灣彰化人，生長於鹿港，淡江大學外文系畢業，後留美專攻戲劇，獲紐約市立大學碩士學位，曾先後任教於政大及淡江，曾居香港，從事文學創作；二十年來出版長短篇小說甚多，包括洪範版《素細怨》及《韭菜命的人》等五種。1978年，香港成為其生命中「第三個島」，這個「島民」孕育出一系列「香港傳奇」（後結集為《一夜遊》、《夾縫之間》兩書），以細膩筆調、敏銳觸角、鮮活語言來描繪香港五光十色的眾生相；該系列小說在海峽兩岸均有熱烈迴響。近年來施叔青致力於促進兩岸文化交流，曾以年餘時間訪問大陸具代表性的十五位名作家，這些採訪實錄後結集為《文壇回顧與前瞻》。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539939469</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;施叔青&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:16.737496+00:00" name="calibre:timestamp"/>
+        <meta content="香港三部曲一" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

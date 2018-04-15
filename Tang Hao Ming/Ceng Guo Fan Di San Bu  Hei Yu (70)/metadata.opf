@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16d1c88a-dba7-436c-849c-0236be7a41ce</dc:identifier>
+        <dc:title>曾國藩第三部 黑雨</dc:title>
+        <dc:creator opf:file-as="唐浩明" opf:role="aut">唐浩明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>“当官要读《曾国藩》，经商要读《胡雪岩》。”本书既写曾国藩的文韬武略，也写他的待人处世与生活态度；既写他的困厄与成功，也写他的得宠与失宠。曾国藩制胜的兵法、治军行政的方针，他独特的人生观、处世哲学，他的文化素养和人格品位等等，都在书中得到精彩的体现。历史小说难得，好的长篇历史小说更难得，读毕此书，当有收益。（子乌注：复制自豆瓣……）</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540411831</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;唐浩明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.068950+00:00" name="calibre:timestamp"/>
+        <meta content="曾國藩第三部 黑雨" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

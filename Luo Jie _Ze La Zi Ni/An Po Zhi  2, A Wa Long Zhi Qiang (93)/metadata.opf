@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cdddd7a-124c-4651-b7d3-fa3388b6683e</dc:identifier>
+        <dc:title>安珀志 2, 阿瓦隆之枪</dc:title>
+        <dc:creator opf:file-as="罗杰·泽拉兹尼" opf:role="aut">罗杰·泽拉兹尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;安珀是个神奇的国度，它是惟一的实体，其他一切世界都是它投射的影子。安珀异于其他一切影子世界。在这里，许多影子世界常见的物理、化学反应都无法生效——比如现代火器就无法运用于安珀的土地。&lt;/p&gt;&lt;p&gt;但在一次偶然的经历中，科温知道，有一种名为红粉的物质，即使在安珀仍旧能保持其爆炸反应。这种红粉的产地叫阿瓦隆。一个影子世界。&lt;/p&gt;&lt;p&gt;逃出牢笼的科温在影子世界中穿行，觅路前往阿瓦隆。一路上，一条黑路伴随着他，穿过不同的影子世界，像一个不祥的预兆。&lt;/p&gt;&lt;p&gt;科温利用阿瓦隆红粉，装备了一支拥有现代火器的部队，开始向安珀前进。但他发现，安珀正在遭到围攻，进攻者同样能够穿行影子世界，因为也有一条黑路引导着他们。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550228788</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">88efd02f-aae1-49b6-a9b9-1793e78bb9d2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX:外国文学</dc:subject>
+        <dc:subject>ZDC:KHXH:科幻玄幻</dc:subject>
+        <dc:subject>CNTY:USA:美国</dc:subject>
+        <dc:subject>ZDC:APZ:安珀志</dc:subject>
+        <meta content="{&quot;罗杰·泽拉兹尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.996680+00:00" name="calibre:timestamp"/>
+        <meta content="安珀志 2, 阿瓦隆之枪" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

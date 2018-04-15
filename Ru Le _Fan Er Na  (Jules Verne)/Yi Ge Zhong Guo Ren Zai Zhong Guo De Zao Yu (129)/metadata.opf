@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e783798c-5ce0-4e1e-9e0f-688793e593ef</dc:identifier>
+        <dc:title>一个中国人在中国的遭遇</dc:title>
+        <dc:creator opf:file-as="儒勒·凡尔纳 (Jules Verne)" opf:role="aut">儒勒·凡尔纳 (Jules Verne)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>安徽教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d0750612-ba7d-4921-9b70-83aa30146376</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;儒勒·凡尔纳 (Jules Verne)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.484833+00:00" name="calibre:timestamp"/>
+        <meta content="一个中国人在中国的遭遇" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

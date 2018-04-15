@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fce8de6-e2ba-4b63-b887-488782f6d8e2</dc:identifier>
+        <dc:title>基地前傳：基地前奏（下）</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>在银河帝国的川陀星球，学者哈里·谢顿在数学十年年会上，透露其“心理史学”理论可以证明人类可以用数学预测未来！搅动了银河系若干星球。帝国皇帝要求他“预测一个好的未来”，谢顿答道：“不可能。”皇帝下令行政长官丹莫茨尔掌控谢顿。为逃避，谢顿在记者夫铭安排下开始在银河系逃亡。在川陀大学，他在穹顶上遇险，在麦曲生星球，竟意外得到秘不示人的典籍，开始接触“朴仆”（机器人）问题，冒险闯入麦曲生人的圣堂，长老阁寻找“朴仆”，触犯大忌，与元首日主十四正面交锋，又是夫铭现身营救。一连串难解的遭遇，躲不开关于“长生不老”的机器人的传说。 　　难以置信的是“他”就是机器人，更不想到的是谢顿所钟情的“她”也是机器人，一个在人的感染下懂得恋爱的机器人。 　　《基地前奏（下）》以“心理史学”为引子，走入银河系，展示了人和机器人分不开理不清的联系，我们不能不问，在银河帝国人和机器人谁主沉浮？</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249406</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.376830+00:00" name="calibre:timestamp"/>
+        <meta content="基地前傳：基地前奏（下）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aa9151b-5057-412a-8ec4-29ca3d8d4966</dc:identifier>
+        <dc:title>长安乱</dc:title>
+        <dc:creator opf:file-as="韩寒" opf:role="aut">韩寒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-14T16:00:00+00:00</dc:date>
+        <dc:description>武林纷乱，朝廷为了掩盖真相，坐视不理，一时间豪强并起，争夺武林盟主的宝座，首当其冲的就是武林两大门派——少林和武当。 　　少林派中有一个五岁进入少林的少年，这个少年身怀异禀，天赋不同，玩世不恭。在纷纷扰扰的江湖恩怨中，他从小到大目睹了太多的门派仇杀。他十八岁下山闯荡江湖，一个神秘的老头改变了他的生活。他得到了老头赠送的当世奇兵，并用它夺取了武林盟主的称号。可是他却最终选择了归隐山林。到底是什么在左右一个少年的命运呢？到底是什么是这个少年——释然、最为珍视的东西呢？</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539132242</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;韩寒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.115570+00:00" name="calibre:timestamp"/>
+        <meta content="长安乱" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

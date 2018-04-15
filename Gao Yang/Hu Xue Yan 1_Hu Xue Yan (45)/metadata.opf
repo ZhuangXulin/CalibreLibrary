@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6609ba96-a0ec-4c24-98a6-07070d0bc7bf</dc:identifier>
+        <dc:title>胡雪巖1：胡雪巖</dc:title>
+        <dc:creator opf:file-as="高陽" opf:role="aut">高陽</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-12T16:00:00+00:00</dc:date>
+        <dc:description>好讀書櫃《典藏版》。《胡雪巖》描寫胡雪巖白手起家，買空賣空，終成一代巨賈的傳奇經歷。 《胡雪巖》名列 世紀百強 第 26。作者 許儒鴻，字晏駢，這個名字默默無聞，但他的筆名「高陽」卻是路人皆知。他自1962年第一次署名「高陽」發表小說《李娃》，到1992年6月6日去世，出版了70多部長篇歷史小說，還有大量散文、詩詞、考據文章，總計3000餘萬字。他的作品在華人中流布之廣、影響之大，或許只有金庸、古龍可以比擬。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108024213</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;高陽&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.992388+00:00" name="calibre:timestamp"/>
+        <meta content="胡雪巖1：胡雪巖" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

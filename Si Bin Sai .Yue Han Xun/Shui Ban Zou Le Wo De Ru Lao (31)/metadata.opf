@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8cd91f4-0ec2-4f28-8d65-9e715e252b85</dc:identifier>
+        <dc:title>誰搬走了我的乳酪</dc:title>
+        <dc:creator opf:file-as="斯賓塞．約翰遜" opf:role="aut">斯賓塞．約翰遜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>斯賓塞．約翰遜，醫學博士。他是享譽全球、深得眾望的思想先鋒、演說家和作家。他的許多觀點，使成千上萬的人發現了許多生活中的簡單真理，使他們的生活更健康、更成功、更輕鬆。 　　面對複雜的問題提出簡單有效的解決辦法，在這方面，他被認為是最好的專家。 　　他是許多最暢銷書的著作者或合著者。他的《誰搬走了我的乳酪？》，是如何應對變化的極好方法。他與傳奇式的管理咨詢專家肯尼斯．布蘭查德博士合著的《一分鐘經理人》一書，持續出現在暢銷書排行榜上，並且成為世界上最受歡迎的管理方法之一。 　　他還寫了許多其他的暢銷書，包括《珍貴的禮物》 ... 成了備受鍾愛的禮物；《是或不》 ... 成了人們的決策指南；《道德故事》 ... 成了最受歡迎的兒童德育讀物；還有「一分鐘系列」裡的其他五本書：《一分鐘銷售》、《一分鐘母親》、《一分鐘父親》、《一分鐘老師》和《一分鐘的你自己》。 　　他所受的教育及工作經歷包括：南加州大學心理學學士、皇家醫學院醫學博士、哈佛大學醫學院及Mayo診所的醫生。 　　約翰遜博士是Medtronic交流（研究）機構的醫學指導，是心臟起博器的發明人；他還是「跨學科研究機構」 ... 一個思想庫中的醫學研究人員，以及加州大學醫學院人格研究中心的顧問。 　　他的書成為許多媒體特別介紹的對象，這些媒體包括：CNN、《今日表演》、金賴瑞現場、《時代雜誌》、《商業週刊》、《紐約時報》、《華爾街日報》、《今日美國》、聯合出版社和聯合國際社。 　　斯賓塞．約翰遜博士的書已經被譯成26種語言，在世界範圍內廣泛傳播，並深受歡迎。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787800733666</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;斯賓塞．約翰遜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.409061+00:00" name="calibre:timestamp"/>
+        <meta content="誰搬走了我的乳酪" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

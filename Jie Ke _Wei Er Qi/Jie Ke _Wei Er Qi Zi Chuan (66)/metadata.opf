@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d5d0ab4-a3d2-47a2-9147-626fb996db72</dc:identifier>
+        <dc:title>杰克·韦尔奇自传</dc:title>
+        <dc:creator opf:file-as="杰克·韦尔奇" opf:role="aut">杰克·韦尔奇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-05T16:00:00+00:00</dc:date>
+        <dc:description>杰克·韦尔奇自传(Jack:Straight from the Gut)被誉为“世界第一CEO”的杰克-韦尔奇在他20年的任期内把通用电气集团带入了辉煌！这本关于他的成长与成功的自传是韦尔奇退休前的最后一个大动作！被全球经理人奉为“CEO的圣经”。是全世界所有梦想成功的人的必读书！在书的结尾提出了作为CEO的20多条经验总结，这些都是心血的凝结........</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508601915</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <meta content="{&quot;杰克·韦尔奇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.888674+00:00" name="calibre:timestamp"/>
+        <meta content="杰克·韦尔奇自传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

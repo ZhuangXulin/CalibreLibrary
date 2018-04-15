@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a752d11c-0d22-46de-aae0-2e1c3cacba50</dc:identifier>
+        <dc:title>35岁前要上的33堂理财课</dc:title>
+        <dc:creator opf:file-as="曾志尧" opf:role="aut">曾志尧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-26T16:00:00+00:00</dc:date>
+        <dc:description>作者简介：曾志尧，亚洲财富管理专家，台湾最红的理财畅销书作家。在中国各地，超过1000万会员
+本书简介：一本专门写给中国年轻人的理财工具书，内容包含从初学入门必须知道的理财观念到理财进阶的实务操作。如果你希望从现在开始好好地学习投资理财，但不知道应该先看哪一本理财书籍，建议你把这本书从头到尾仔细阅读一遍，相信你一定会有非常丰富的收获。 本书内容包含从初学入门必须知道的理财观念到理财进阶的实务操作，亚洲财富管理专家在书中跟大家谈谈他的理财经验，当然也包括作者在投资理财的过程中那些惨痛的大赔教训与投资获利的心得与窍门。</dc:description>
+        <dc:publisher>金读</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4fc13d9a281b2754b1b80f047ffb32e94aaabfd0-0-azw</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>都市·言情</dc:subject>
+        <meta content="{&quot;曾志尧&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:16.254412+00:00" name="calibre:timestamp"/>
+        <meta content="35岁前要上的33堂理财课" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

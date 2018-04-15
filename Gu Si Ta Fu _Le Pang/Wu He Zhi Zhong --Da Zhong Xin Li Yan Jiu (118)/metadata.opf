@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">319acf26-bb17-4cdf-9761-b0aabbdccfb1</dc:identifier>
+        <dc:title>乌合之众—大众心理研究</dc:title>
+        <dc:creator opf:file-as="古斯塔夫·勒庞" opf:role="aut">古斯塔夫·勒庞</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-08T16:00:00+00:00</dc:date>
+        <dc:description>本书是一本当之无愧的名著，他极为精致地描述了集体心态，是在社会心理学领域已经写出的著作中，最有影响者。本书还具有持久的影响力，是群体行为的研究者不可不读的文献。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801093660</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <meta content="{&quot;古斯塔夫·勒庞&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.029236+00:00" name="calibre:timestamp"/>
+        <meta content="乌合之众—大众心理研究" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

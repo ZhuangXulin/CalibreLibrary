@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0589a49b-3558-4608-9072-b3542b03cbf9</dc:identifier>
+        <dc:title>莎士比亚全集</dc:title>
+        <dc:creator opf:file-as="威廉·莎士比亚" opf:role="aut">威廉·莎士比亚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-29T16:00:00+00:00</dc:date>
+        <dc:description>莎士比亚（W. William Shakespeare；1564～1616）英国文艺复兴时期伟大的剧作家、诗人，欧洲文艺复兴时期人文主义文学的集大成者。
+ 
+国籍： 英国 
+出生地： 英格兰沃里克郡斯特拉福镇 
+出生日期： 1564年4月23日 
+ 逝世日期： 1616年5月3日 
+职业： 剧作家，诗人，演员 
+代表作品： 四大悲剧《哈姆雷特》《奥赛罗》《李尔王》《麦克白》</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>文学名著</dc:subject>
+        <meta content="{&quot;威廉·莎士比亚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.577714+00:00" name="calibre:timestamp"/>
+        <meta content="莎士比亚全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d6a92e8-dd19-42b4-81ad-6db6d471af43</dc:identifier>
+        <dc:title>蔡康永的说话之道</dc:title>
+        <dc:creator opf:file-as="蔡康永" opf:role="aut">蔡康永</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;台湾名嘴蔡康永“说话”多年之后首次尝试教人“说话”。如何讨好领导升职加薪?朋友聚会如何炒热气氛?得罪老婆如何求饶?这本书中,蔡康永亲传“说话之道”,让已经很讨人喜欢的你,在未来更讨人喜欢!&lt;/p&gt;&lt;p class="description"&gt;蔡康永:这本书虽然谈很多“说话之术”,但我相信的不是术。我相信的,是先对人和人之间的沟通认真看待,然后得到比较多的力量、比较靠近幸福。通过说话,懂得把别人放在心上,这就是我相信的,蔡康永的“说话之道”。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>沈阳出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544143158</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">197e6029-da22-4f8c-b7f3-f18d30bcde87</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LZCG</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>ZDC:SHXX</dc:subject>
+        <meta content="{&quot;蔡康永&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.538165+00:00" name="calibre:timestamp"/>
+        <meta content="蔡康永的说话之道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

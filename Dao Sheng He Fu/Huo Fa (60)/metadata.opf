@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6f64f52-97b3-49aa-aea1-5bbf9e6ccf8c</dc:identifier>
+        <dc:title>活法</dc:title>
+        <dc:creator opf:file-as="稻盛和夫" opf:role="aut">稻盛和夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-22T16:00:00+00:00</dc:date>
+        <dc:description>季羡林推许、郎咸平敬佩、马云引为导师、日本鸠山由纪夫拜为高参的日本经营之圣稻盛和夫系列作品 --------------------- 一部风靡全球的超级畅销书，让无数人在迷茫时代找到活着的意义，修炼灵魂，保护美德，瞬间激发自身潜在的伟大力量，从未做过赔钱的生意，稻盛和夫一生创办两个世界500强企业，让无数独生子女找到组织的关爱，让无数孤独的人体会到集体生活的幸福，让每个人价值最大化，高效团队的基本原则，通读三遍，人生从此不寂寞。 　　做企业的目的是什么？赢利！做企业人的目标是什么？帮企业赢利！然而，为什么在财务报表形势喜人、经营业绩节节攀升的同时，我们还会听到公司员工对老板的私下抱怨？ 日本战后经济奇迹缔造者，唯一在世的“经营之圣”，两家世界500强企业创始人，作为“经营之圣”的稻盛和夫，在本书中回顾了几十年来的经营心得，并将成功的条件归纳为能力、努力和态度。作为一位优秀的企业家，稻盛和夫无疑给正在寻求企业发展之道及努力完善企业德行的企业家们指引了一条光明之路。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506036603</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>恐怖·悬疑</dc:subject>
+        <meta content="{&quot;稻盛和夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.629984+00:00" name="calibre:timestamp"/>
+        <meta content="活法" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

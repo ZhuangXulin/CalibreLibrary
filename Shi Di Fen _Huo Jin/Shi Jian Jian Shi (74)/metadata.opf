@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">747d039b-fd34-4c61-9409-3af7d56e38ad</dc:identifier>
+        <dc:title>时间简史</dc:title>
+        <dc:creator opf:file-as="史蒂芬·霍金" opf:role="aut">史蒂芬·霍金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-21T14:58:14+00:00</dc:date>
+        <dc:publisher>babyshan hcs@fj163.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta content="{&quot;史蒂芬·霍金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.215584+00:00" name="calibre:timestamp"/>
+        <meta content="时间简史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

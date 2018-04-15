@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1421d768-45c9-47e1-844d-73dd22e0e47c</dc:identifier>
+        <dc:title>老殘遊記</dc:title>
+        <dc:creator opf:file-as="劉鶚" opf:role="aut">劉鶚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-11T16:00:00+00:00</dc:date>
+        <dc:description>《老殘遊記》名列 世紀百強 第 10。作者劉鶚(1857—1909)，字鐵雲，江蘇丹徒人。他對“西學”很有興趣，研究過數學、醫學、水利等。先後在河南巡撫吳大澄、山東巡撫張曜處做過幕賓，因治河有功，官至知府。八國聯軍入京時，他曾從俄軍處賤價購買太倉糧轉賣給居民，後來被劾私售倉粟，謫徙新疆而死。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020024582</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;劉鶚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.954734+00:00" name="calibre:timestamp"/>
+        <meta content="老殘遊記" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

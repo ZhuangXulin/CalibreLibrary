@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6b3da05-1b30-4049-96ce-9bee04e0749e</dc:identifier>
+        <dc:title>我是猫（经典译林）</dc:title>
+        <dc:creator opf:file-as="夏目漱石" opf:role="aut">夏目漱石</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;《我是猫》是夏目漱石的代表作，向被奉为世界名著之一。小说通过猫的视觉观察明治维新后的日本社会，以幽默辛辣的语言，嘲笑和鞭挞了人类固有的弱点和金钱世界的社会时弊，还大量引用了古今东西哲人达士的名言，外外闪射着机智和文采，喜笑怒骂皆成文章。作品语言则典俚合炉，雅俗共赏，读来令人在笑声中抑制不拄惊叹。&lt;/p&gt;</dc:description>
+        <dc:publisher>凤凰出版传媒集团，译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806572856</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">5fa6c92d-285d-4822-9b18-b175e0463682</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;夏目漱石&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.389623+00:00" name="calibre:timestamp"/>
+        <meta content="我是猫（经典译林）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

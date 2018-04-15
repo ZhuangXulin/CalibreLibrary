@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5208e329-d2eb-42fe-b050-742d3478e443</dc:identifier>
+        <dc:title>一个美国资本家的成长</dc:title>
+        <dc:creator opf:file-as="罗杰·洛文斯坦" opf:role="aut">罗杰·洛文斯坦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-06T16:00:00+00:00</dc:date>
+        <dc:description>巴菲特的成功并非偶然，九岁的他已经知道通过收集瓶盖来了解哪一种品牌的软饮料生意最红火；在为《华盛顿邮报》做报童时，他就考虑过可以依靠增加产品线来获得更大利益。其投资生涯始于11岁，迄今个人财富已逾166亿美元，超越比尔・盖茨，成为美国新首富。想进一步了解巴菲特令人神往的一生，那就看着本语言轻松幽默，情节引人入胜的人物传记吧！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806177211</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <meta content="{&quot;罗杰·洛文斯坦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.406309+00:00" name="calibre:timestamp"/>
+        <meta content="一个美国资本家的成长" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
