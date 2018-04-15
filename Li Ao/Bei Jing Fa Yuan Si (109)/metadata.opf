@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e91d1c7-6f23-4061-8ded-a32801444ea1</dc:identifier>
+        <dc:title>北京法源寺</dc:title>
+        <dc:creator opf:file-as="李敖" opf:role="aut">李敖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>（子乌注：好读【典藏版】）本書是李敖諾貝爾文學提名珍藏版。有思想、有歷史、有文學，值得一看再看。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789575100773</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;李敖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.664145+00:00" name="calibre:timestamp"/>
+        <meta content="北京法源寺" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

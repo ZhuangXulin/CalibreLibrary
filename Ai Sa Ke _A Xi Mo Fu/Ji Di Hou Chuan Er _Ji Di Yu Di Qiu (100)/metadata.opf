@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">961b9249-ffe1-4cdb-826d-f8f659fc3f92</dc:identifier>
+        <dc:title>基地後傳二：基地與地球</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-31T16:00:00+00:00</dc:date>
+        <dc:description>银河未来的命运决定于某人一念之间，这个就是葛兰·崔维兹。他必须在第一基地，第二基地与盖娅之间做出银河未来由谁主导的决定，由第一基地创建的新帝国将会逞领银河进入科技昌明的世纪，由第二基地指导的新帝国将能确保人类的永久和平，而以盖娅为蓝图的盖娅星系则会是个心灵共同体，所有人类将与万物融合成一个良善的整体。崔维兹直觉地做出了选择，但却无法确定自己的选择是否正确，他怀疑宇宙中还藏有更强大的操纵力量。崔维兹相信地球是解开所有谜团的关键，因为地球是人类的起源母星。奇怪的是，银河中有关地球的资料全都神秘消失。决心查明真正的崔维兹，再次在险恶的群星间漂流，寻觅，究竟两万年前的地球隐藏着什么秘密，崔维兹会改变他的决定吗？</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249451</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.300252+00:00" name="calibre:timestamp"/>
+        <meta content="基地後傳二：基地與地球" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

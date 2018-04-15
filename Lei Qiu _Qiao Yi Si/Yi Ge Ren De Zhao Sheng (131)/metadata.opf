@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50c5f082-970a-4322-a09d-2f341945fd25</dc:identifier>
+        <dc:title>一个人的朝圣</dc:title>
+        <dc:creator opf:file-as="蕾秋•乔伊斯" opf:role="aut">蕾秋•乔伊斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;★2013年欧洲首席畅销小说，入围2012年布克文学奖，同名电影拍摄中&lt;/p&gt;
+
+&lt;p&gt;★台湾读者表示“很久没有读一本书读到凌晨”、“是一个简单、素朴但会令人深深感动的故事”、“笑泪交织的阅读”&lt;/p&gt;
+
+&lt;p&gt;★2013年春季英国最具影响力“理查与茱蒂”读书俱乐部书单第1 名；欧普拉读书俱乐部夏日选书、美国图书馆协会选书；2012年英国最畅销新人小说；《出版人周刊》、《纽约时报》、《泰晤士报》、《嘉人》、《今日美国》等各大媒体高评价推荐&lt;/p&gt;
+
+&lt;p&gt;★他以为人生就这么过去了，直到收到那封信&lt;/p&gt;
+
+&lt;p&gt;★1个人，87天，627英里&lt;/p&gt;
+
+&lt;p&gt;★有关爱的回归、自我发现、日常生活的信念以及万物之美&lt;/p&gt;
+
+&lt;p&gt;★这一年，我们都需要哈罗德安静而勇敢的陪伴&lt;/p&gt;
+
+&lt;p&gt;哈罗德·弗莱，六十岁，在酿酒厂干了四十年销售代表后默默退休，没有升迁，既无朋友，也无敌人，退休时公司甚至连欢送会都没开。他跟隔阂很深的妻子住在英国的乡间，生活平静，夫妻疏离，日复一日。&lt;/p&gt;
+
+&lt;p&gt;一天早晨，他收到一封信，来自二十年未见的老友奎妮。她患了癌症，写信告别。震惊、悲痛之下，哈罗德写了回信，在寄出的路上，他由奎妮想到了自己的人生，经过了一个又一个邮筒，越走越远，最后，他从英国最西南一路走到了最东北，横跨整个英格兰。87天，627英里，只凭一个信念：只要他走，老友就会活下去！&lt;/p&gt;
+
+&lt;p&gt;这是哈罗德千里跋涉的故事。从他脚步迈开的那一刻起，与他六百多英里旅程并行的，是他穿越时光隧道的另一场旅行。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550213524</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2060a415-1351-4343-ad8d-01c9d35ccfb0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;蕾秋•乔伊斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:21.577641+00:00" name="calibre:timestamp"/>
+        <meta content="一个人的朝圣" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d98f42b7-c880-4d88-be6e-634a3120f44a</dc:identifier>
+        <dc:title>你若安好，便是晴天——林徽因传</dc:title>
+        <dc:creator opf:file-as="白落梅" opf:role="aut">白落梅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;本书绝对为完整版本，全书共六章，另有附录两则。本人辛苦劳动所得，转载请注明出处&lt;/p&gt;&lt;p class="description"&gt;电子书制作人：VanC&lt;/p&gt;&lt;p class="description"&gt;内容简介：她是中国第一代女性建筑学家，被胡适誉为中国一代才女。她是中华人民共和国国徽设计的参与者，是人民英雄纪念碑的设计者之一，是传统景泰蓝工艺的拯救者。她是一个聪慧的女子，让徐志摩怀想了一生，让梁思成宠爱了一生，让金岳霖默默地记挂了一生，更让世间形色男子仰慕了一生。她，就是林徽因。&lt;/p&gt;&lt;p class="description"&gt;《你若安好便是晴天:林徽因传》用最清澈的文字、诗意的笔法、全面详实的资料，生动地展现了林徽因的传奇一生。&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#400080"&gt;子乌注：（我争取不吐槽……）当时在书店看到这本书的时候，很有兴趣，因为徐志摩，因为梁思成，因为金岳霖。随手翻看了两页之后，我认为印刷厂出错了，书名少印了&lt;b&gt;霹雳&lt;/b&gt;俩字（对不起，我又吐槽了）！&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#400080"&gt;然后，就在刚刚没多久，我翻到这个电子版，看到制作者很认真的说明（就是前面那些），我觉得，还是把这书放出来吧，豆瓣评分6分就表示还是有相当一部分童鞋喜欢它的，我……好吧，不扯什么客观之类的废话，我就是看在制作者很辛苦的份上，觉得随手删掉蛮对不起制作者，于是就重新制作了一下下，放上来了……&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>网友</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787511316585</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">750a4b06-c8f2-4918-8ef8-4e437a292e76</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:SGSW</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <meta content="{&quot;白落梅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.781683+00:00" name="calibre:timestamp"/>
+        <meta content="你若安好，便是晴天——林徽因传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

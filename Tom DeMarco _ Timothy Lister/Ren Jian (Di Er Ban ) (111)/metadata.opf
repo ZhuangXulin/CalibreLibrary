@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05480b05-6868-4ec4-b736-d81771d679fe</dc:identifier>
+        <dc:title>人件(第二版)</dc:title>
+        <dc:creator opf:file-as="Lister, Tom DeMarco / Timothy" opf:role="aut">Tom DeMarco / Timothy Lister</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-04T16:00:00+00:00</dc:date>
+        <dc:description>微软成功的原因之一就是公司里的所有经理都读过《人件》。我推荐软件经理每年重读一遍这本《人件》。 　　——Joel Spolsky 　　　　当《人件》第1版出版时，我写了一篇评论，“我强烈推荐你买一本《人件》给你或你的老板；如果你是老板，那么请为你部门的每个人买一本，并且也给自己买一本。”这个建议在12年后依然有效，并且更加强烈。 　　——Edward Yourdon 　　　　《人件》（第2版）中推荐的许多方法已经成为当今一流公司的标语：给开发人员提供私用的办公室，关闭公共寻呼系统，提供有设置‘请勿打扰’的电话等等。 　　　　由于本书第1版的赫赫声名，新版的《人件》是我不用看就会决定购买的少数几本书之一。 　　——Steve McConnell, IEEE Software 　　　　这是我一直喜爱的软件工程书籍。《人件》正确指出软件工程是针对“人”，而不是针对“技术”。它看到在软件开发过程中人的许多方面，并指出人并不是软件开发机器中简单的小齿轮。我强烈推荐这本书给从普通工程师到CEO的每一个人。 　　——Mark A. Herschberg 　　　　我们终于有了一本关注论述软件工业中“人的因素”的著作，这可是一个好消息。当我第一次读完这本书时，我兴奋异常，即使现在再去读它也会激动。我们工作的主要问题并不是技术问题而是社会问题。我不禁嫉妒作者有如此丰富的学识与经验。 　　——Raghavendra Gururaj 　　　　近年来，软件工程领域的一个重大贡献是DeMarco和Lister在1987年出版的《人件》，我衷心地向我的读者推荐这本书。 　　——《人月神话》第19章 　　　　《人月神话》关注“软件开发”本身，《人件》则关注软件开发中的“人”。 　　——UMLChina</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787302063841</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:DNWL</dc:subject>
+        <meta content="{&quot;Tom DeMarco / Timothy Lister&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.742929+00:00" name="calibre:timestamp"/>
+        <meta content="人件(第二版)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

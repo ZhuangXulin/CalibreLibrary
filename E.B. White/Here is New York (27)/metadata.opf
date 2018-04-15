@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bac25e2-d590-4ad2-b943-9e016b738e24</dc:identifier>
+        <dc:title>Here is New York</dc:title>
+        <dc:creator opf:file-as="White, E.B." opf:role="aut">E.B. White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-29T16:00:00+00:00</dc:date>
+        <dc:publisher>Little Bookroom</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004KZP0WY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;E.B. White&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:17.247542+00:00" name="calibre:timestamp"/>
+        <meta content="Here is New York" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

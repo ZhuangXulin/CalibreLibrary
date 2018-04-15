@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7e1ec03-48fe-445a-9982-a7978cb3e8cd</dc:identifier>
+        <dc:title>夹边沟记事</dc:title>
+        <dc:creator opf:file-as="杨显惠" opf:role="aut">杨显惠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;这是一段尘封四十年的历史，当年的幸存者散落在各个角落，没有人问过他们到底发生了什么，当年的死难者早已化为白骨，连他们的后代也不知道埋在何处。幸亏杨显惠这位有良知的作家，不辞辛劳，四处寻访，历经数载，终于揭开了历史的盖子。&lt;/p&gt;&lt;p&gt;本书是《定西孤儿院纪事》的姊妹篇，被誉为“中国的《古拉格群岛》”。书中所指的夹边沟，为甘肃酒泉一个羁押右派分子的劳改农场，从1957年开始关押的近三千人，至1960年底幸存者已不足一半，是一处充满了苦难、饥饿和死亡的伤痛之地。作者历经数年，大海捞针般搜寻和采访了近百名当事人，并在高度忠于历史事实的基础上，完成了这部极具震撼历的纪实性小说。全书通过近20个故事，对众多受难者命运的来龙去脉进行了深沉的揭示，对绝境中的人性有着十分出色的绘状，更直视了这一历史悲剧的精神本质和深刻教训。&lt;/p&gt;&lt;p&gt;从2000年春季《上海文学》开始连载《夹边沟记事》至今，时间已经过去了九年。其间天津古籍出版社出过一册《夹边沟记事》，但其内容不全是“夹边沟”，还有几篇作者早期的中短篇小说。后来上海文艺出版社出版了全部的“夹边沟”故事，书名变成了《告别夹边沟》。现在花城出版社要重新出版这本书，且恢复了它的原名。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>花城出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536053281</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">19a6c0c3-9ff0-441e-8555-abbfd4b869c1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:ZG</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <meta content="{&quot;杨显惠&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:20.057733+00:00" name="calibre:timestamp"/>
+        <meta content="夹边沟记事" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c2c7f85-1863-40f9-bcd8-7736cc92a06b</dc:identifier>
+        <dc:title>浮躁</dc:title>
+        <dc:creator opf:file-as="賈平凹" opf:role="aut">賈平凹</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-24T16:00:00+00:00</dc:date>
+        <dc:description>《浮躁》名列 世紀百強 第 57。作者賈平凹（1952年2月21日—），原名賈平娃，中國當代作家。陝西省商洛市丹鳳縣人。中國作家協會理事、中國作家協會陝西分會副主席。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787531326670</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;賈平凹&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.467313+00:00" name="calibre:timestamp"/>
+        <meta content="浮躁" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

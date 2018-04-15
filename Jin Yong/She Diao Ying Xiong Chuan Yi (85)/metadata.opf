@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6f3e28a-64cf-405b-ac63-6fdc382110a2</dc:identifier>
+        <dc:title>射鵰英雄傳一</dc:title>
+        <dc:creator opf:file-as="金庸" opf:role="aut">金庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-12T16:00:00+00:00</dc:date>
+        <dc:description>【射鵰英雄傳】名列 世紀百強 第 29。是金庸中期武俠 小說創作的代表作品，也是金庸擁有 讀者最多的作品，它的發表確立了金 庸「武林至尊」的地位。這部小說歷 史背景突出，場景紛繁，氣勢宏偉， 具有鮮明的「英雄史詩」風格；在人 物創造與情節安排上，它打破了傳統 武俠小說一味傳奇，將人物作為情節 附庸的模式，堅持以創造個性化的人 物形象為中心，堅持人物統帥故事， 按照人物性格的發展需要及其內在可 能性、必然性來設置情節，從而使這 部說達到了事雖奇人卻真的妙境。本 書最初連載於一九五七年｜一九五九 年的《香港商報》。</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108012586</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;金庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:19.663428+00:00" name="calibre:timestamp"/>
+        <meta content="射鵰英雄傳一" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

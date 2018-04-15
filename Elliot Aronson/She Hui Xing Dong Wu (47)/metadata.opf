@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4eea16b-9c85-47e9-993a-b869f8caa9de</dc:identifier>
+        <dc:title>社会性动物</dc:title>
+        <dc:creator opf:file-as="Aronson, Elliot" opf:role="aut">Elliot Aronson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-20T16:00:00+00:00</dc:date>
+        <dc:description>《社会性动物》是美国社会心理学家艾略特·阿伦森 [Elliot Aronson 1932.01.09]出版的一本社会心理学的著作，它被称为“美国社会心理学的《圣经》”（Revue des QuestionsScientifiques的评价）。本书从1972年出版第一版以来，在世界范围内畅销数千万册，是社会心理学领域内最具影响的著作。作者艾略特·阿伦森是美国心理学会110年历史上唯一一位获得所有三项大奖的心理学家：杰出研究奖（1999年）、杰出教学奖（1980年）和杰出著作奖（1975年）。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561756638</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>专业书籍</dc:subject>
+        <meta content="{&quot;Elliot Aronson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.073998+00:00" name="calibre:timestamp"/>
+        <meta content="社会性动物" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccc1da53-e188-4ca5-a31d-9753ec7884dd</dc:identifier>
+        <dc:title>极权主义的起源</dc:title>
+        <dc:creator opf:file-as="汉娜·阿伦特" opf:role="aut">汉娜·阿伦特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-26T16:00:00+00:00</dc:date>
+        <dc:description>全书分为三个部分：反犹主义、帝国主义、极权主义。作者从19世纪中欧与东欧历史中的反犹主义入手，追索其中的极权主义因素，然后审视欧洲的殖民帝国主义。在研究极权主义运动和政府的机构、组织和运作时，她集中分析了极权主义统治的两种形式——纳粹时期的德国和斯大林时期的苏联。在结论一章中，她出色地分析了人类的孤立和孤独是产生极权统治的先决条件。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108029157</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;汉娜·阿伦特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-15T12:30:18.850453+00:00" name="calibre:timestamp"/>
+        <meta content="极权主义的起源" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
