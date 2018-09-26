@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">280e3f34-99b8-430b-842d-ec0de126cd7d</dc:identifier>
+        <dc:title>万历十五年（经典版）</dc:title>
+        <dc:creator opf:file-as="黄仁宇" opf:role="aut">黄仁宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-18T16:00:00+00:00</dc:date>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">aa3fe5ee-b696-456c-bfaf-bf48f4e11de1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;黄仁宇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-24T05:21:11.371649+00:00" name="calibre:timestamp"/>
+        <meta content="万历十五年（经典版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
